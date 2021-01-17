@@ -11,4 +11,4 @@ is very sensetive to the discount....</b>
 
 <h1>Video</h1>
 <br>
-[![VIDEO](https://github.com/rushidarge/Tableau-Sales-Insight/blob/main/images/8e93c0ce8d474b4b39479ee96ed45b6c-10.jpg)](https://www.youtube.com/watch?v=QPY_DJqr3s8)
+https://www.youtube.com/watch?v=QPY_DJqr3s8
