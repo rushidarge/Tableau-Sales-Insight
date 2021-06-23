@@ -1,4 +1,6 @@
 # Tableau-Sales-Insight
+Slides[https://www.slideshare.net/RushikeshDarge/workbook-tableau-sales-profit]
+
 Tableau Sales insight Project
 
 ![Sales with discount](https://github.com/rushidarge/Tableau-Sales-Insight/blob/main/images/8e93c0ce8d474b4b39479ee96ed45b6c-22.jpg?raw=true "Title")<br>
